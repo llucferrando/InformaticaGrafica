@@ -1,0 +1,3 @@
+C:\Users\LlucFerrandoJorda\Desktop\FirstInfoGraficaClass\x64\Debug\FirstInfoGraficaClass.exe
+C:\Users\LlucFerrandoJorda\Desktop\InformaticaGrafica\FirstInfoGraficaClass\x64\Debug\FirstInfoGraficaClass.exe
+C:\Users\LlucFerrandoJorda\Desktop\InformaticaGrafica\x64\Debug\FirstInfoGraficaClass.exe
