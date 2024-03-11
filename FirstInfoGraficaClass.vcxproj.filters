@@ -35,5 +35,11 @@
     <None Include="MyFirstVertexShader.glsl">
       <Filter>Shaders\Vertex Shaders</Filter>
     </None>
+    <None Include="MyFirstGeometryShader.glsl">
+      <Filter>Shaders\Geometry Shaders</Filter>
+    </None>
+    <None Include="MyFirstFragmentShader.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
   </ItemGroup>
 </Project>

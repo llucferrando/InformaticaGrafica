@@ -136,6 +136,8 @@
     <ClCompile Include="MyFirstInfoGráfica.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="MyFirstFragmentShader.glsl" />
+    <None Include="MyFirstGeometryShader.glsl" />
     <None Include="MyFirstVertexShader.glsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
